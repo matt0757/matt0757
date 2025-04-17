@@ -11,10 +11,10 @@ I'm a **Data Science student at Monash University** with a passion for **AI, aut
 - **Other Skills**: Networking, Cybersecurity Basics, Recruitment & Talent Admin
 
 ### 📌 Featured Projects
-🔹 **[Automated Email Distribution for SIS Open Day](https://github.com/matt0757/sis-open-day-email-automation)**  *(not finalized)*
+🔹 **[Automated Email Distribution for SIS Open Day](https://github.com/matt0757/sis-open-day-email-automation)** *(not finalized)*
 _Automated email distribution using Google Apps Script & GitHub Actions._
 
-🔹 **[Mass E-Certificate Generation](https://github.com/matt0757/mass-e-cert-generator)**  *(not finalized)*
+🔹 **[Mass E-Certificate Generation](https://github.com/matt0757/mass-e-cert-generator)** *(not finalized)*
 _Developed an automated system for e-certificates using Python & YAML._
 
 🔹 **[Monash Data Science Assignments](https://github.com/matt0757/Year1-Assignment)** *(Private Repository)*  
