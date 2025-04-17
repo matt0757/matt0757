@@ -21,10 +21,10 @@ _Developed an automated system for e-certificates using Python & YAML._
 _A collection of coursework assignments covering data science, programming, and algorithms._
 
 🔹 **[CodeStart Competition](https://github.com/matt0757/CodeStart2024)**  
-_First-place project in a beginner's coding competition._
+_First-place in a beginner's coding competition._
 
 ### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matt0757&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matt0757&show_icons=true&theme=synthwave)
 
 ### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/MatthewChong0757/)  
