@@ -11,17 +11,17 @@ I'm a **Data Science student at Monash University** with a passion for **AI, aut
 - **Other Skills**: Networking, Cybersecurity Basics, Recruitment & Talent Admin
 
 ### 📌 Featured Projects
-🔹 **[Automated Email Distribution for SIS Open Day](https://github.com/matt0757/sis-open-day-email-automation)**  *(not finalized)
-<div>_Automated email distribution using Google Apps Script & GitHub Actions._</div>
+🔹 **[Automated Email Distribution for SIS Open Day](https://github.com/matt0757/sis-open-day-email-automation)**  *(not finalized)*
+_Automated email distribution using Google Apps Script & GitHub Actions._
 
-🔹 **[Mass E-Certificate Generation](https://github.com/matt0757/mass-e-cert-generator)**  *(not finalized)
-<div>_Developed an automated system for e-certificates using Python & YAML._</div>
+🔹 **[Mass E-Certificate Generation](https://github.com/matt0757/mass-e-cert-generator)**  *(not finalized)*
+_Developed an automated system for e-certificates using Python & YAML._
 
 🔹 **[Monash Data Science Assignments](https://github.com/matt0757/Year1-Assignment)** *(Private Repository)*  
-<div>_A collection of coursework assignments covering data science, programming, and algorithms._</div>
+_A collection of coursework assignments covering data science, programming, and algorithms._
 
 🔹 **[CodeStart Competition](https://github.com/matt0757/CodeStart2024)**  
-<div>_First-place in a beginner's coding competition._</div>
+_First-place in a beginner's coding competition._
 
 ### 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matt0757&show_icons=true&theme=synthwave)
