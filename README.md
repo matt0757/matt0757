@@ -23,9 +23,6 @@ _A collection of coursework assignments covering data science, programming, and 
 🔹 **[CodeStart Competition](https://github.com/matt0757/CodeStart2024)** <br>
 _First-place in a beginner's coding competition._
 
-### 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=matt0757&show_icons=true&theme=synthwave)
-
 ### 🌍 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/MatthewChong0757/)  
 📩 **Email**: mczj0757@gmail.com
